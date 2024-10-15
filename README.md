@@ -24,5 +24,5 @@ This project is a real-time translation tool that listens to speech, translates 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/real-time-translation-tool.git
+   git clone https://github.com/bantoinese83/real-time-translation-tool.git
    cd real-time-translation-tool
