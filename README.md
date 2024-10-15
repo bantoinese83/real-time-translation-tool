@@ -26,3 +26,6 @@ This project is a real-time translation tool that listens to speech, translates 
    ```sh
    git clone https://github.com/bantoinese83/real-time-translation-tool.git
    cd real-time-translation-tool
+   
+    ```
+
